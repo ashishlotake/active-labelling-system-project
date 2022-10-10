@@ -3,7 +3,7 @@
 
 
 # Understanding Deployment
-![](./A%20PROJECT%20REPORT%20ON(1).svg)
+![](./Screenshot%20from%202022-10-09%2015-39-41.png)
 
 # Set to run locally
 
