@@ -1,3 +1,4 @@
+[Read Supporting Blog](https://www.ashishlotake.com/blog/active-labelling-system)
 # Supported Images for labelling
 ![](./destination_path.png)
 
