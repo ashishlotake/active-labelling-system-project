@@ -2,6 +2,8 @@
 # Supported Images for labelling
 ![](./destination_path.png)
 
+# Preview
+![](https://github.com/ashishlotake/ashishlotake.com/blob/main/public/static/images/blog/active-labelling/webapp.gif)
 
 # Understanding Deployment
 ![](./Screenshot%20from%202022-10-09%2015-39-41.png)
