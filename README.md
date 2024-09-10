@@ -1,4 +1,4 @@
-[Read Supporting Blog](https://www.ashishlotake.com/blog/active-labelling-system)
+[Read Supporting Blog](https://ashishlotake.medium.com/build-an-automated-labeling-system-f960419e458b)
 # Supported Images for labelling
 ![](./destination_path.png)
 
